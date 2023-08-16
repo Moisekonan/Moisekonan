@@ -96,9 +96,9 @@
 
 <div align="center" >
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Code_Oz&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Moisekonan&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="400"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Code_Oz&show_icons=true&locale=en&exclude_repo=nan.ci,naniens,e-store,pyshop&langs_count=8&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="350"  alt="Code_Oz stats languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Moisekonan&show_icons=true&locale=en&exclude_repo=nan.ci,naniens,e-store,pyshop&langs_count=8&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="350"  alt="Moisekonan stats languages"/>
 
 </div>
 
