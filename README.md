@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Moise Konan (Code_Oz) </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+github;Full-stack+web+and+mobile+developer;I+code%2C+so+I+create%2C+and+from+my+fingertips+the+future+is+born.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+github;Full-stack+web+and+mobile+developer;I+code%2C+so+I+create.)](https://git.io/typing-svg)
 
 <br>
 
