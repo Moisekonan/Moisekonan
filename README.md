@@ -1,4 +1,7 @@
-<!-- <h1 align="center"><b>Hi , I'm Moise Konan (Code_Oz) </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Moise Konan (Code_Oz) </b>
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+github;Full-stack+web+and+mobile+developer;I+code%2C+so+I+create.)](https://git.io/typing-svg)
 
@@ -10,8 +13,8 @@
 
 <br>
 
-- A passionate full-stack developer
-- Exploring new technologies and developing software solutions to our worlds tech problems.
+- Un développeur full-stack passionné
+- Explorer les nouvelles technologies et développer des solutions logicielles pour résoudre les problèmes technologiques de notre monde.
 - Work in progress
 
 <br><br>
@@ -49,7 +52,7 @@
 
   <br> -->
 
-<!-- - **UI frameworks**:
+- **UI frameworks**:
 
   ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 
@@ -100,18 +103,18 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Moisekonan&show_icons=true&locale=en&exclude_repo=nan.ci,naniens,e-store,pyshop&langs_count=8&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="350"  alt="Moisekonan stats languages"/>
 
-</div> -->
+</div> 
 
 <!---
 iamMAHAM/iamMAHAM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
----> 
+You can click the Preview link to take a look at your changes.-->
+- 
 
 
 <!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)  banner -->
 
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+<!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rishav Chanda</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -148,4 +151,4 @@ You can click the Preview link to take a look at your changes.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda" /></p> -->
