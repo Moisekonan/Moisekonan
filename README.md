@@ -1,7 +1,7 @@
 <h1 align="center"><b>Salut, je suis Moise Konan (Code_Oz) </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <img src="./assets/header_.png" width="100%">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+github;Full-stack+web+and+mobile+developer;I+code%2C+so+I+create.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Bienvenue+sur+mon+github;Développeur+full-stack+web+et+mobile;Je+code%2C+donc+Je+crée.)](https://git.io/typing-svg)
 
 <br>
 
@@ -105,5 +105,5 @@
 </div>
 
 <!---
-iamMAHAM/iamMAHAM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Moisekonan/Moisekonan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.-->
