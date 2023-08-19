@@ -15,12 +15,13 @@
 - Explorer les nouvelles technologies et développer des solutions logicielles pour résoudre les problèmes technologiques de notre monde.
 - Site web personnel [lien](http://codeoz.pythonanywhere.com/)
 - Je suis actuellement à la recherche d'un stagiaire ou d'une nouvelle opportunité d'emploi, voici [mon CV](http://codeoz.pythonanywhere.com/static/CV_MoiseKouassi.pdf)
-<hr>
 <Br>
-<h1 align="center">Get in Touch! 📬</h1>
+<h1 align="center">Contactez-moi ! 📬</h1>
 <Br>
 <p align="center">
-<a href="https://www.linkedin.com/in/arya-manjaramkar" target="blank"><img align="center" src="https://img.shields.io/badge/Arya Manjaramkar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:aryagm01@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/aryagm01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/Aryagm" target="blank"><img align="center" src="https://img.shields.io/badge/Aryagm-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/kouassi-mo%C3%AFse-konan-571414228/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  
+<a href="mailto:mokonan99@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       
+<a href="https://gitlab.com/codeoz" target="blank"><img align="center" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" /></a>
 </p>
 
 <br><br>
