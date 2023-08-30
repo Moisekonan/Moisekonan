@@ -14,7 +14,7 @@
 - Un développeur full-stack passionné
 - Explorer les nouvelles technologies et développer des solutions logicielles pour résoudre les problèmes technologiques de notre monde.
 - Site web personnel [lien](http://codeoz.pythonanywhere.com/)
-- Je suis actuellement à la recherche d'un stagiaire ou d'une nouvelle opportunité d'emploi, voici [mon CV](http://codeoz.pythonanywhere.com/static/CV_MoiseKouassi.pdf)
+- Je suis actuellement à la recherche d'un stage ou d'une nouvelle opportunité d'emploi, voici [mon CV](http://codeoz.pythonanywhere.com/static/CV_MoiseKouassi.pdf)
 <Br>
 <h1 align="center">Contactez-moi ! 📬</h1>
 <Br>
