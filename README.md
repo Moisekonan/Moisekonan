@@ -38,7 +38,7 @@
   <br />
 
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-  ![NestJs](https://img.shields.io/badge/nestjs-14354C?style=for-the-badge&logo=nestjs&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-blue?logo=javascript)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 <br>   
@@ -47,8 +47,9 @@
 
     ![DJANGO](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
     ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=00DC82&labelColor=gray)
-    ![LARAVEL](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+    ![NestJs](https://img.shields.io/badge/nestjs-14354C?style=for-the-badge&logo=nestjs&logoColor=white)
     ![ANGULAR](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+    ![REACTJS](https://img.shields.io/badge/React-DD0031?style=for-the-badge&logo=react&logoColor=white)
 
 <br>
 
